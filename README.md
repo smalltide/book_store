@@ -12,3 +12,16 @@ use python3, Tkinter and PostgreSQL to create a book store desktop application
   > cd book_store
   > python3 app.py
 ```
+
+A program that stores this book information:
+Title, Author
+Year, ISBN
+
+User can:
+
+View all records
+Search an entry
+Add Entry
+Update
+Delete
+Close
