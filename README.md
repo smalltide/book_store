@@ -15,11 +15,11 @@ use python3, Tkinter and sqlite to create a book store desktop application
 
 Wrap python script to executable application
 ```
-  > pip3 install pyinstaller (for windows .exe)
+  > (for windows .exe) pip3 install pyinstaller
   > pyinstaller --onefile --windowed app.py
   >
   >
-  > pip3 install py2app
+  > (for mac .app) pip3 install py2app
   > py2applet --make-setup app.py
   > python3 setup.py py2app
 ```
