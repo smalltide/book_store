@@ -44,9 +44,9 @@ def update(id, title, author, year, isbn):
     conn.commit()
     conn.close()
 
-connect()
+#connect()
 #insert("The sea", "Jhon", 1918, 123456)
 #delete(3)
 #update(4, "The sea2", "ice", 1920, 23456)
-print(view())
+#print(view())
 #print(search(author = "ice"))
